@@ -1,4 +1,4 @@
- # Here is a new update by athidevks-maker
+# Here is a new update by athidevks-maker
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
